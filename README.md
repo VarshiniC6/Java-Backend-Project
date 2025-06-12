@@ -1,4 +1,4 @@
-[12-06-2025 19:49] Varshini: # Employee and Asset Management System 🚀
+Employee and Asset Management System 🚀
 
 A simple Java-based console project to manage employee records and assigned assets using JDBC and MySQL. This project demonstrates core Java skills, object-oriented programming, database interaction, and clean code practices — perfect for showcasing in interviews.
 
@@ -30,7 +30,7 @@ Companies need an internal tool to manage employees, their assigned assets (like
 ---
 
 ## 🗂 Project Structure
-[12-06-2025 19:51] Varshini: EmployeeAssetManagement/
+EmployeeAssetManagement/
 │
 ├── Main.java
 ├── model/
